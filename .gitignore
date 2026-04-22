@@ -1,0 +1,11 @@
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.wav
+/private
+/node_modules
+package-lock.json
