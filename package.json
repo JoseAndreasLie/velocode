@@ -1,0 +1,16 @@
+{
+  "name": "velocode",
+  "version": "0.0.0",
+  "description": "Video Editor/Generator",
+  "keywords": [
+    "video",
+    "generation"
+  ],
+  "license": "MIT",
+  "author": "Jose Andreas Lie",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
